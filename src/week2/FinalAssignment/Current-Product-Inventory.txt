@@ -1,0 +1,20 @@
+P81X0B63,Widgetizer Pro,78,99.99
+K49Y2C32,Gadgetronix Deluxe,35,49.99
+H92V8F11,Doohickey Master,91,149.99
+T25U7S66,Thingamajig Platinum,62,199.99
+M57N4P23,Whatchamacallit Supreme,17,29.99
+A47C2B84,GizmoMaster 2000,42,79.99
+E78P9K32,WhizBang Turbo,15,39.99
+N65M3Z17,SuperDuper Widget,88,129.99
+R29F4H61,MegaGadget Ultra,73,179.99
+L36T5J92,TurboWidget X4,5,49.99
+V57D3N42,TurboGizmo Plus,18,89.99
+G42R9S23,SuperWidget Elite,65,149.99
+X63P5K18,MegaDoodad Supreme,91,199.99
+B29J8M57,GadgetMaster Pro,32,99.99
+C15F6H24,WhizBang Pro X3,80,129.99
+Q84T9P26,UltraGizmo X5,10,59.99
+U36K4N75,WidgetBlaster 3000,55,79.99
+D78M3J59,SuperDoodad Ultra,42,139.99
+R92H5F14,TurboGadget Deluxe,27,69.99
+K23N7G88,MegaWhizBang Supreme,5,199.99
